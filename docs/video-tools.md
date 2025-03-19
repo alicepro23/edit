@@ -106,6 +106,7 @@
 * [selur](https://www.selur.de/) - Video Encoding
 * [vvenc](https://github.com/fraunhoferhhi/vvenc), [vvdec](https://github.com/fraunhoferhhi/vvdec) or [VVCEasy](https://github.com/MartinEesmaa/VVCEasy) - VVC Encode / Decode
 * [Ingex](https://ingex.sourceforge.net/) - Tapeless (Uncompressed) Recording / Digital Tape Converter
+* [Image Converter](https://azconverson.com/) - Online Free Image Converter
 
 ***
 
@@ -442,6 +443,7 @@
 * [Team V.R](https://codec.kyiv.ua/ad0be.html) - After Effects
 * [ShareAE](https://www.shareae.com/) - After Effects
 * [HunterAE](https://hunterae.com/) - After Effects
+* [RizatGraphics](https://riztagar.com/) - After Effects
 * [Visual Effects Pack](https://t.me/visual_effects_pack) - After Effects
 * [AERiver](https://aeriver.com/) - After Effects
 * [AEDownloadPro](https://aedownloadpro.com/) - After Effects
